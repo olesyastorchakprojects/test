@@ -4,3 +4,4 @@ OxfordEntry::OxfordEntry(const QJsonObject &json, QObject *parent) : QObject(par
 {
 
 }
+lalalal ups ups ups
